@@ -1,0 +1,35 @@
+body {
+    margin-top: 32.7px;
+    margin-right: 0px;
+    margin-left: 482.251;
+    background: rgb(52, 51, 51);
+}
+
+.container {
+    display: block;
+    margin: left, right;
+    width: 950px;
+    border-radius: 25px;
+    background-color: #444444;
+    justify-content: center;
+}
+
+.container p {
+    text-align: center;
+    color: white;
+}
+
+.image {
+    margin-right: 7px;
+    margin-left: 7px;
+    margin-bottom: 7px;
+    border-radius: 35px;
+    position: static;
+    opacity: 0.8;
+}
+
+.camel {
+    width: 300;
+    height: 200;
+    border-radius: 20%;
+}
